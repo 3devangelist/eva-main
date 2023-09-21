@@ -27,6 +27,14 @@ Because I have an Ender5 plus that I don't want to turn in Corexy, I think many 
 # GOODIES
 Front cover I have edited it because I think the current one could improve the assembly because the fan is fixed when you assemble the front cover see the video.
 
+# V6 Mount
+![image](https://github.com/3devangelist/eva-main/assets/17902658/1aecb37f-ab58-4ecf-8fb9-399ff02d9003)
+
+# Vulcano
+![image](https://github.com/3devangelist/eva-main/assets/17902658/ed1421d0-ce6f-47f6-9f87-46d687db288f)
+
+You can use the support I have on stl's folders and intend to mount touch on the top and install it on the bottom the ar conduct you can use the original
+
 STLs are in the STL folder
 If you need to edit you have the blender file in the right folder
 
