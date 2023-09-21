@@ -22,7 +22,7 @@ Because I have an Ender5 plus that I don't want to turn in Corexy, I think many 
 
 # Assembly Video
 
-[![IMAGE ALT TEXT HERE](https://github.com/3devangelist/eva-main/assets/17902658/c739ea7b-f20e-40c4-b198-f3340c78464b)](https://youtu.be/DO1iPVl6RT4)
+https://www.youtube.com/watch?v=DO1iPVl6RT4
 
 # GOODIES
 Front cover I have edited it because I think the current one could improve the assembly because the fan is fixed when you assemble the front cover see the video.
