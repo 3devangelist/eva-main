@@ -30,4 +30,6 @@ Front cover I have edited it because I think the current one could improve the a
 STLs are in the STL folder
 If you need to edit you have the blender file in the right folder
 
-I Used Blender because I Can and it's free and opensource.
+I Used Blender because I Can and it's free and open-source.
+
+Sorry this could be more polished but its life 
